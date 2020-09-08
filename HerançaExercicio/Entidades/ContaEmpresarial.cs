@@ -9,7 +9,8 @@ namespace HerançaExercicio.Entidades
         public double Emprestimo { get; set; }
 
         public ContaEmpresarial()
-        {  
+        {
+            
         }
 
         
